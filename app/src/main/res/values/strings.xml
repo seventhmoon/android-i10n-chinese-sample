@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chinese Localization Sample</string>
+    <string name="description">Before Android 8.0, if System Language is Tradition Chinese, it should load the resources of "zh-TW".\nOn Android 8.0 and above, user could select multiple language profile in settings.\nIf a user has only "Cantonese (Traditional, Hong Kong) in the settings, it should load the resources of "yue-Hant-HK"</string>
+</resources>
